@@ -132,7 +132,7 @@ if has("gui_running") || &t_Co == 256
     call <SID>X("MatchParen", "", "", "")
 
     call <SID>X("Todo", "e080e0", "202020", "bold")
-    call <SID>X("Title", "000000", "", "")
+    call <SID>X("Title", "fd8940", "", "")
     call <SID>X("Special", "fd8900", "", "")
 
     call <SID>X("String", "a0ff70", "", "")
@@ -144,7 +144,7 @@ if has("gui_running") || &t_Co == 256
     call <SID>X("Comment", "888888", "", "")
     call <SID>X("Type", "cc2000", "", "")
     call <SID>X("Error", "ffffff", "d40000", "")
-    call <SID>X("Identifier", "ccb18f", "", "")
+    call <SID>X("Identifier", "ddff22", "", "")
     call <SID>X("Label", "e5ed15", "", "")
 
     delf <SID>X
